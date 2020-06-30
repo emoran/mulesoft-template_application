@@ -1,4 +1,4 @@
-# Mulesoft 3.9.1 Template
+# Mulesoft 3.9.X Template
 
 Baisc information about this template, it contains
 
